@@ -1,0 +1,11 @@
+C:\Users\Nusret\source\repos\AS1809\bin\Debug\AS1809.exe.config
+C:\Users\Nusret\source\repos\AS1809\bin\Debug\AS1809.exe
+C:\Users\Nusret\source\repos\AS1809\bin\Debug\AS1809.pdb
+C:\Users\Nusret\source\repos\AS1809\obj\Debug\AS1809.csprojAssemblyReference.cache
+C:\Users\Nusret\source\repos\AS1809\obj\Debug\AS1809.Form1.resources
+C:\Users\Nusret\source\repos\AS1809\obj\Debug\AS1809.Properties.Resources.resources
+C:\Users\Nusret\source\repos\AS1809\obj\Debug\AS1809.csproj.GenerateResource.cache
+C:\Users\Nusret\source\repos\AS1809\obj\Debug\AS1809.csproj.CoreCompileInputs.cache
+C:\Users\Nusret\source\repos\AS1809\obj\Debug\AS1809.exe
+C:\Users\Nusret\source\repos\AS1809\obj\Debug\AS1809.pdb
+C:\Users\Nusret\source\repos\AS1809\obj\Debug\AS1809.Form2.resources
